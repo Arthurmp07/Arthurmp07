@@ -1,6 +1,6 @@
 ### Hi There I'm Arthur Mello Pimentel ⭐
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ef3f87&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=015818&height=120&section=header"/>
 <h2>About Me</h2>
 
 - 🎓 I’m a Full Stack Web Developer
