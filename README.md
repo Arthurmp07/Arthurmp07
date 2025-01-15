@@ -11,8 +11,8 @@
 
 <br>
 <div>
-<img width=auto align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=arthurmp07&show_icons=true&theme=radical&include_all_commits=true&count_private=true&layout=compact"/>
-##
+<img width=auto align="center" color="015818" src="https://github-readme-stats-eight-theta.vercel.app/api?username=arthurmp07&show_icons=true&theme=radical&include_all_commits=true&count_private=true&layout=compact"/>
+
 </div>
 <div style="display: inline_block"><br>
     <img align="center" alt="Arthur-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
@@ -23,7 +23,7 @@
   <img align="center" alt="Arthur-PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
 </div>
   
-  ##
+  
  
 <div> 
   <a href="https://www.instagram.com/arthurmello334/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="120"  height="25" target="_blank"></a>
