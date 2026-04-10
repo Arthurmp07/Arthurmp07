@@ -3,8 +3,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=015818&height=120&section=header"/>
 <h2>About Me</h2>
 
-- 🎓 I’m a Full Stack Web Developer
-- 🖥️ I’m currently learning web development and IA
+- 🎓 I’m a Full Stack Developer
+- 🖥️ I’m currently learning data engennering and IA
 - 🚀 I’m looking to collaborate on inovation projects
 - ⚡ I’m looking for learn and create new..
 
